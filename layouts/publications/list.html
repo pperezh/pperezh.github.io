@@ -1,0 +1,46 @@
+{{ define "main" }}
+<div class="max-w-prose pt-10 px-6 prose dark:prose-invert max-w-none">
+    <h1 class="font-extrabold text-4xl mb-8 text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+
+    <div class="flex flex-col space-y-4">
+        {{ range .Pages.ByDate.Reverse }}
+        <div class="border-b border-neutral-200 dark:border-neutral-700 pb-3">
+            <h3 class="text-xl font-bold mb-2">
+                <a href="{{ .RelPermalink }}"
+                    class="no-underline hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
+                    {{ .Title }}
+                </a>
+            </h3>
+
+            <div class="text-neutral-600 dark:text-neutral-400 mb-2">
+                {{ if .Params.authors }}
+                {{ delimit .Params.authors ", " | markdownify }}
+                {{ end }}
+            </div>
+
+            <div class="text-sm italic text-neutral-500 dark:text-neutral-500 mb-3">
+                {{ .Params.publication }}
+            </div>
+
+            <div class="flex gap-4 text-sm font-semibold">
+                {{ with .Params.hugoblox.ids.doi }}
+                <a href="https://doi.org/{{ . }}" target="_blank"
+                    class="flex items-center gap-1 text-primary-600 dark:text-primary-400 hover:underline">
+                    DOI ↗
+                </a>
+                {{ end }}
+
+                {{ range .Params.links }}
+                {{ if eq .type "pdf" }}
+                <a href="{{ .url }}" target="_blank"
+                    class="flex items-center gap-1 text-primary-600 dark:text-primary-400 hover:underline">
+                    PDF ⬇
+                </a>
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
