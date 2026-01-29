@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pavement Cells on Patricio Pérez-Henríquez</title>
+    <link>http://localhost:1313/tags/pavement-cells/</link>
+    <description>Recent content in Pavement Cells on Patricio Pérez-Henríquez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pavement-cells/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Epidermis Growth</title>
+      <link>http://localhost:1313/projects/epidermis-growth/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/epidermis-growth/</guid>
+      <description>&lt;p&gt;Decoding the biomechanical and signaling rules that shape plant epidermal cells.&lt;/p&gt;&#xA;&lt;p&gt;This project explores how plants coordinate complex shapes in their outer protective layer, the epidermis. Using Arabidopsis &lt;strong&gt;pavement cells&lt;/strong&gt; as a model, we discovered that auxin acts as a hierarchical signal: a global auxin flow establishes a &amp;ldquo;blueprint&amp;rdquo; across the tissue, while local auxin signaling drives the interdigitation (puzzle-piece shape) of individual cells.&lt;/p&gt;&#xA;&lt;p&gt;We recently identified that this local shaping is initiated by auxin signaling rather than mechanical stress, fundamentally shifting our understanding of plant morphogenesis. Extending this to the root, my work on &lt;strong&gt;WALLFLOWER (WFL)&lt;/strong&gt; reveals how polarized receptor kinases modify cell wall properties to control anisotropic growth. Together, these studies explain how plants generate robust yet plastic epidermal patterns during organ growth.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/epidermis-growth/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Hierarchical global and local auxin signals coordinate cellular interdigitation in Arabidopsis</title>
+      <link>http://localhost:1313/publications/paper9-biorxiv-2024/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publications/paper9-biorxiv-2024/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/publications/paper9-biorxiv-2024/featured.png" />
+    </item>
+    
+    <item>
+      <title>Membrane nanodomains: Dynamic nanobuilding blocks of polarized cell growth</title>
+      <link>http://localhost:1313/publications/paper7-plantphys-2023/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publications/paper7-plantphys-2023/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/publications/paper7-plantphys-2023/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

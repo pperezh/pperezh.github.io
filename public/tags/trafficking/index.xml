@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trafficking on Patricio Pérez-Henríquez</title>
+    <link>http://localhost:1313/tags/trafficking/</link>
+    <description>Recent content in Trafficking on Patricio Pérez-Henríquez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/trafficking/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Protein Trafficking and Organogenesis</title>
+      <link>http://localhost:1313/projects/protein-trafficking-and-organogenesis/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/protein-trafficking-and-organogenesis/</guid>
+      <description>&lt;p&gt;Elucidating the role of endomembrane trafficking in specifying cell fate and organ architecture.&lt;/p&gt;&#xA;&lt;p&gt;Organogenesis requires precise control over cell division and identity. My research highlights the critical role of &lt;strong&gt;endocytic trafficking&lt;/strong&gt; in these processes, specifically in the formation of lateral roots. We discovered a novel mechanism where endocytic trafficking to the vacuole triggers &lt;strong&gt;Lateral Root Founder Cell (LRFC)&lt;/strong&gt; specification upstream of—and distinct from—the canonical auxin signaling pathway.&lt;/p&gt;&#xA;&lt;p&gt;In parallel, we study how directional signaling regulates cell division orientation in the root meristem. By investigating the &lt;strong&gt;INFLORESCENCE AND ROOT APICES RECEPTOR KINASE (IRK)&lt;/strong&gt;, we are mapping how receptor localization determines the plane of cell division in the endodermis. This project emphasizes that the movement of proteins (trafficking) is just as important as the proteins themselves in defining plant architecture.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/protein-trafficking-and-organogenesis/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

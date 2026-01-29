@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Patricio Pérez-Henríquez</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Patricio Pérez-Henríquez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Epidermis Growth</title>
+      <link>http://localhost:1313/projects/epidermis-growth/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/epidermis-growth/</guid>
+      <description>&lt;p&gt;Decoding the biomechanical and signaling rules that shape plant epidermal cells.&lt;/p&gt;&#xA;&lt;p&gt;This project explores how plants coordinate complex shapes in their outer protective layer, the epidermis. Using Arabidopsis &lt;strong&gt;pavement cells&lt;/strong&gt; as a model, we discovered that auxin acts as a hierarchical signal: a global auxin flow establishes a &amp;ldquo;blueprint&amp;rdquo; across the tissue, while local auxin signaling drives the interdigitation (puzzle-piece shape) of individual cells.&lt;/p&gt;&#xA;&lt;p&gt;We recently identified that this local shaping is initiated by auxin signaling rather than mechanical stress, fundamentally shifting our understanding of plant morphogenesis. Extending this to the root, my work on &lt;strong&gt;WALLFLOWER (WFL)&lt;/strong&gt; reveals how polarized receptor kinases modify cell wall properties to control anisotropic growth. Together, these studies explain how plants generate robust yet plastic epidermal patterns during organ growth.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/epidermis-growth/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Protein Trafficking and Organogenesis</title>
+      <link>http://localhost:1313/projects/protein-trafficking-and-organogenesis/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/protein-trafficking-and-organogenesis/</guid>
+      <description>&lt;p&gt;Elucidating the role of endomembrane trafficking in specifying cell fate and organ architecture.&lt;/p&gt;&#xA;&lt;p&gt;Organogenesis requires precise control over cell division and identity. My research highlights the critical role of &lt;strong&gt;endocytic trafficking&lt;/strong&gt; in these processes, specifically in the formation of lateral roots. We discovered a novel mechanism where endocytic trafficking to the vacuole triggers &lt;strong&gt;Lateral Root Founder Cell (LRFC)&lt;/strong&gt; specification upstream of—and distinct from—the canonical auxin signaling pathway.&lt;/p&gt;&#xA;&lt;p&gt;In parallel, we study how directional signaling regulates cell division orientation in the root meristem. By investigating the &lt;strong&gt;INFLORESCENCE AND ROOT APICES RECEPTOR KINASE (IRK)&lt;/strong&gt;, we are mapping how receptor localization determines the plane of cell division in the endodermis. This project emphasizes that the movement of proteins (trafficking) is just as important as the proteins themselves in defining plant architecture.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/protein-trafficking-and-organogenesis/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Cell-surface signals</title>
+      <link>http://localhost:1313/projects/cell-surface-signals/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/cell-surface-signals/</guid>
+      <description>&lt;p&gt;Uncovering the mechanisms of extranuclear auxin perception and signaling at the plasma membrane.&lt;/p&gt;&#xA;&lt;p&gt;My research challenges the traditional view that auxin signaling occurs primarily in the nucleus. We identified &lt;strong&gt;ABL1 and ABL2&lt;/strong&gt; (ABP1-like proteins) as new auxin-binding proteins that physically interact with &lt;strong&gt;Transmembrane Kinases (TMKs)&lt;/strong&gt; at the cell surface. This work demonstrates that ABLs and TMKs act as co-receptors to perceive extracellular auxin, triggering rapid cellular responses independent of transcriptional changes.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cell-surface-signals/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chemical Biology</title>
+      <link>http://localhost:1313/projects/chemical-biology/</link>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/chemical-biology/</guid>
+      <description>&lt;p&gt;Using small bioactive molecules to probe complex biological systems and develop new biotechnological tools.&lt;/p&gt;&#xA;&lt;p&gt;This project utilizes &lt;strong&gt;chemical genomics&lt;/strong&gt; to bypass the limitations of traditional genetics (such as gene redundancy or lethality). We have successfully used bioactive molecules like &lt;strong&gt;Sortin2&lt;/strong&gt; to transiently perturb endomembrane trafficking, allowing us to dissect rapid dynamic processes in real-time.&lt;/p&gt;&#xA;&lt;p&gt;Beyond basic research, we apply these chemical tools to translational contexts. For example, we identified &lt;strong&gt;iron chelators&lt;/strong&gt; capable of regenerating neuritic trees in dopaminergic neurons, offering potential therapeutic avenues for Parkinson&amp;rsquo;s disease. Furthermore, we are working to translate chemical information from model systems (yeast and &lt;em&gt;Arabidopsis&lt;/em&gt;) to agricultural crops, developing &amp;ldquo;agrochemicals&amp;rdquo; that can modulate plant growth and stress resilience.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/chemical-biology/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

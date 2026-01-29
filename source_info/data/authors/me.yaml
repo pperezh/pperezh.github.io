@@ -1,0 +1,199 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Patricio Pérez-Henríquez
+  given: Patricio
+  family: Pérez-Henríquez
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals:
+  - PhD
+status:
+  icon: "🔬🧬"
+role: 
+bio: |
+  I graduated as a Biotechnology Engineer from the University of Chile, where I also completed my Ph.D. in Cell and Developmental Biology. Enriched by my research experiences abroad at UC Davis and University of Ghent, I moved to California to pursue fundamental biological questions, joining UC Riverside as a Postdoctoral Researcher in 2016. Later, I advanced to an Assistant Project Scientist role, and in 2024, I joined the University of California, Los Angeles (UCLA). My research is focused on coordinate cellular pattern formation and hormone signaling.
+affiliations:
+  - name: Los Angeles, CA
+    url: https://www.ucla.edu/
+  - name: 
+    url: 
+links:
+  - icon: at-symbol
+    url: mailto:patricio@pperezh.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/pperezh
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/patricioperezhenriquez/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.es/citations?user=2Y0DMHEAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-2761-0004
+interests:
+  - Hormone Signaling
+  - Protein trafficking & Morphogenesis
+  - Cell Polarity & Morphogenesis
+  - Live-Cell Imaging
+  - Genetics
+
+#############################
+# WORK EXPERIENCE SECTION
+#############################
+work:
+  - position: Assistant Project Scientist
+    company_name: University of California, Los Angeles
+    company_url: https://www.ucla.edu/
+    city: Los Angeles
+    country: USA
+    start: 2024-07-01
+    end: 2026-01-19  # Empty means "Present"
+    description: |
+      Supervisor: Jaimie Van Norman. 
+      Department of Molecular, Cell and Developmental Biology.
+      
+  - position: Assistant Project Scientist
+    company_name: University of California, Riverside
+    company_url: https://www.ucr.edu/
+    city: Riverside
+    country: USA
+    start: 2021-04-01
+    end: 2024-06-30
+    description: |
+      Supervisors: Zhenbiao Yang and Jaimie Van Norman.
+      
+  - position: Postdoctoral Researcher
+    company_name: University of California, Riverside
+    company_url: https://www.ucr.edu/
+    city: Riverside
+    country: USA
+    start: 2016-04-01
+    end: 2021-04-01
+    description: |
+      Supervisor: Zhenbiao Yang.
+      
+education:
+  - degree: PhD Molecular, Cellular and Neuroscience Biology
+    institution: University of Chile
+    start: 2011-03-15
+    end: 2016-01-30
+  - degree: Master Molecular and Cellular Biology
+    institution: University of Chile
+    start: 2009-07-01
+    end: 2011-01-31
+  - degree: Biotechnoloy Engineering
+    institution: University of Chile
+    start: 2004-03-01
+    end: 2009-09-09
+    
+languages:
+  - name: English
+    percent: 100
+  - name: Spanish
+    percent: 100
+    
+#############################
+# SKILLS & HOBBIES
+#############################
+skills:
+  - name: Technical Skills
+    items:
+      - name: Microscopy
+        description: " Confocal, spectral, super-res, FLIM, AFM"
+        percent: 100
+        icon: "🔬" 
+      - name: Image Analysis
+        description: "Segmentation, ImageJ/Fiji, R, Phyton"
+        percent: 90
+        icon: "📈"
+      - name: Molecular Biology
+        description: "Cloning, IP, qRT-PCR"
+        percent: 95
+        icon: "🧬"
+      - name: Teaching
+        description: "CIRTL Associate Teaching Certificate"
+        percent: 85
+        icon: "🧑‍🏫"
+
+hobbies:
+  - name: Photography
+    icon: "camera"
+    description: "Capturing moments and landscapes"
+  - name: Hiking
+    icon: "hiking"
+    description: "Exploring nature trails in California"
+  - name: Coding
+    icon: "code"
+    description: "Developing tools for image analysis"
+
+#############################
+# AWARDS (Updated from CV)
+#############################
+awards:
+  - title: Travel Award (IPGSA)
+    date: '2025-06-01'
+    awarder: National Science Foundation (NSF)
+    summary: |
+      Supported by NSF to attend the IPGSA 2025 Conference in Fort Collins, Colorado.
+
+  - title: Best Oral Presentation
+    date: '2024-05-01'
+    awarder: Graduate Division and RPA, UC Riverside
+    summary: |
+      Awarded at the UCR Early Career Scientist Symposium.
+
+  - title: Nominee - Excellence in Postdoctoral Research Award
+    date: '2024-01-01'
+    awarder: Office of Research and the Graduate Division, UC Riverside
+    summary: |
+      Nominated for outstanding research contributions as a postdoctoral scholar.
+
+  - title: Nominee - Diversity, Equity, and Inclusivity Award
+    date: '2023-01-01'
+    awarder: Department of Botany and Plant Science, UC Riverside
+    summary: |
+      Nominated for contributions to diversity and equity within the department.
+
+  - title: Postdoctoral Fellowship
+    date: '2017-01-01'
+    awarder: FAFU-UCR Joint Center
+    summary: |
+      Competitive salary and benefits fellowship for postdoctoral research (~$120,000 USD total).
+
+  - title: Operational Expenses Grant
+    date: '2013-01-01'
+    awarder: CONICYT, Chile
+    summary: |
+      Responsible researcher. Grant for doctoral thesis development expenses (~$8,000 USD).
+
+  - title: Research Internship Grant
+    date: '2012-07-01'
+    awarder: University of Chile
+    summary: |
+      Funding for research internship abroad at VIB/Ghent University, Belgium (~$4,500 USD).
+
+  - title: Valorization of University Research Grant (FONDEF-VIU)
+    date: '2012-01-01'
+    awarder: CONICYT, Chile
+    summary: |
+      Responsible researcher. Grant to foster science-based entrepreneurship (~$30,000 USD).
+
+  - title: Ph.D. Fellowship
+    date: '2011-03-01'
+    awarder: CONICYT, Chile
+    summary: |
+      Full scholarship for university fees and monthly stipend (~$80,000 USD total).
+
+  - title: Foreign Specialists Visit Grant
+    date: '2011-01-01'
+    awarder: MECESUP, Chile
+    summary: |
+      Co-responsible researcher. Funding to host Prof. Dr. Tom Beeckman (~$4,000 USD).
+
+  - title: Exchange Student Scholarship
+    date: '2008-01-01'
+    awarder: University of Chile / Student Abroad Program
+    summary: |
+      Scholarship for undergraduate research exchange at UC Davis (~$19,000 USD).

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Root Development on Patricio Pérez-Henríquez</title>
+    <link>http://localhost:1313/tags/root-development/</link>
+    <description>Recent content in Root Development on Patricio Pérez-Henríquez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <lastBuildDate>Tue, 16 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/root-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WALLFLOWER, a polarized receptor-like kinase, alters cell wall properties impacting cell division and elongation in Arabidopsis</title>
+      <link>http://localhost:1313/publications/paper12-biorxiv-2025/</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publications/paper12-biorxiv-2025/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/publications/paper12-biorxiv-2025/featured.png" />
+    </item>
+    
+    <item>
+      <title>Outward askew endodermal cell divisions reveal INFLORESCENCE AND ROOT APICES RECEPTOR KINASE functions in division orientation</title>
+      <link>http://localhost:1313/publications/paper10-plantphys-2024/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publications/paper10-plantphys-2024/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/publications/paper10-plantphys-2024/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

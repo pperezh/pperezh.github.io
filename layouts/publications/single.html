@@ -1,0 +1,76 @@
+{{ define "main" }}
+<div class="max-w-7xl mx-auto pt-10 px-6">
+    <article class="prose dark:prose-invert max-w-none">
+
+        <header class="mb-10 max-w-4xl">
+            <h1 class="text-4xl font-extrabold mb-4 text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+            <div class="text-lg text-neutral-600 dark:text-neutral-400">
+                {{ if .Params.authors }}
+                {{ delimit .Params.authors ", " | markdownify }}
+                {{ end }}
+            </div>
+            <div class="text-md italic text-neutral-500 mt-2">
+                {{ .Params.publication }} | {{ .Date.Format "January 2006" }}
+            </div>
+        </header>
+
+        {{/* Stacked Layout: No Grid */}}
+
+        {{/* 1. Image (Full Width/Large) */}}
+        {{ $image := .Resources.GetMatch "featured*" }}
+        {{ if not $image }}
+        {{/* Fallback to searching all images if no featured* found */}}
+        {{ range .Resources.ByType "image" }}
+        {{ if not $image }}{{ $image = . }}{{ end }}
+        {{ end }}
+        {{ end }}
+
+        {{ if $image }}
+        <div class="mb-12">
+            <figure class="m-0">
+                <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}"
+                    class="shadow-lg rounded-lg w-full max-h-[600px] object-contain bg-neutral-100 dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700">
+                {{ if .Params.image.caption }}
+                <figcaption class="text-sm text-center mt-2 text-neutral-500">{{ .Params.image.caption }}
+                </figcaption>
+                {{ end }}
+            </figure>
+        </div>
+        {{ end }}
+
+        {{/* 2. Abstract */}}
+        {{ if .Params.abstract }}
+        <div class="mb-12 p-8 bg-neutral-50 dark:bg-neutral-800 rounded-lg">
+            <h3 class="text-xl font-bold mb-4 uppercase tracking-wider text-neutral-700 dark:text-neutral-300">
+                Abstract</h3>
+            <p class="m-0 text-lg leading-relaxed text-justify">{{ .Params.abstract }}</p>
+        </div>
+        {{ end }}
+
+        {{/* 3. Main Content */}}
+        <div class="mb-12 text-lg">
+            {{ .Content }}
+        </div>
+
+        {{/* 4. Links */}}
+        <div class="flex flex-wrap gap-4 mb-12">
+            {{ with .Params.hugoblox.ids.doi }}
+            <a href="https://doi.org/{{ . }}" target="_blank"
+                class="px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white rounded-md no-underline font-bold transition-colors">
+                Access via DOI
+            </a>
+            {{ end }}
+
+            {{ range .Params.links }}
+            {{ if eq .type "pdf" }}
+            <a href="{{ .url }}" target="_blank"
+                class="px-6 py-3 border-2 border-primary-600 text-primary-600 dark:text-primary-400 dark:border-primary-400 hover:bg-primary-50 dark:hover:bg-neutral-800 rounded-md no-underline font-bold transition-colors">
+                Download PDF
+            </a>
+            {{ end }}
+            {{ end }}
+        </div>
+
+    </article>
+</div>
+{{ end }}
