@@ -1,4 +1,4 @@
-baseURL = "https://www.pperezh.com/"
+baseURL = "https://pperezh.github.io/"
 languageCode = "en-us"
 title = "Patricio Pérez-Henríquez" # User can update this
 theme = "blowfish"

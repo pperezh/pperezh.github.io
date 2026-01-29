@@ -53,4 +53,10 @@ After pushing the code, you must configure the repository on GitHub:
     *   **Source**: Select **GitHub Actions** (Beta) from the dropdown menu.
 4.  That's it! GitHub will detect the `hugo.yaml` file I created and automatically start building your website.
 
-You can check the progress in the **Actions** tab of your repository. Once the green checkmark appears, your site will be live at `https://pperezh.github.io`.
+You can check the progress in the **Actions** tab of your repository.
+1. Click on the **Actions** tab.
+2. You should see a workflow run named **"chore: remove redundant CNAME and trigger deploy"** (or similar) queued or running.
+3. Click on it to watch the steps.
+4. Once it completes effectively, the `Deploy` step will show a green checkmark, and your site will be live at `https://pperezh.github.io`.
+
+**Note:** You do **not** need to click "Configure" for Jekyll or Static HTML in the settings. The custom Hugo workflow I created will be automatically detected and used now that you've pushed a new commit.
