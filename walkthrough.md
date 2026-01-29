@@ -59,4 +59,29 @@ You can check the progress in the **Actions** tab of your repository.
 3. Click on it to watch the steps.
 4. Once it completes effectively, the `Deploy` step will show a green checkmark, and your site will be live at `https://pperezh.github.io`.
 
-**Note:** You do **not** need to click "Configure" for Jekyll or Static HTML in the settings. The custom Hugo workflow I created will be automatically detected and used now that you've pushed a new commit.
+**UPDATE:** The workflow has been fixed and successfully deployed! 🟢
+
+### Solution Summary
+1.  **Hugo Version**: Bumped to `0.141.0` (Extended) to support the latest Blowfish theme features (specifically the `try` function).
+2.  **Sass Installation**: Switched to `npm install -g sass` for reliable CSS compilation.
+3.  **Custom Domain**: Temporarily removed `CNAME` to unblock the build.
+
+### Next Step: Restore Custom Domain
+Now that the site is building correctly, you can re-connect your custom domain:
+
+1.  **Verify Removal**: Ensure `www.pperezh.com` is **completely removed** from your *old* repository's settings on GitHub.
+2.  **Add `static/CNAME`**: Create a file named `CNAME` inside the `static` folder (not the root) with the content:
+    ```
+    www.pperezh.com
+    ```
+3.  **Update Config**: Change the verified URL in `hugo.toml`:
+    ```toml
+    baseURL = "https://www.pperezh.com/"
+    ```
+4.  **Push Changes**:
+    ```bash
+    git add .
+    git commit -m "chore: restore custom domain"
+    git push origin main
+    ```
+5.  **GitHub Settings**: Go to Settings > Pages > Custom domain and verify it is set to `www.pperezh.com`.

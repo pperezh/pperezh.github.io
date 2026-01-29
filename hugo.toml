@@ -1,42 +1,14 @@
 baseURL = "https://pperezh.github.io/"
-languageCode = "en-us"
-title = "Patricio Pérez-Henríquez" # User can update this
+defaultContentLanguage = "en"
 theme = "blowfish"
 
-[menu]
-  [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
-    weight = 10
-  [[menu.main]]
-    identifier = "publications"
-    name = "Publications"
-    url = "/publications/"
-    weight = 20
-  [[menu.main]]
-    identifier = "talks"
-    name = "Talks"
-    url = "/talks/"
-    weight = 30
-  [[menu.main]]
-    identifier = "methods"
-    name = "Methods"
-    url = "/methods/"
-    weight = 40
-  [[menu.main]]
-    identifier = "cv"
-    name = "CV"
-    url = "/cv/"
-    weight = 50
-
+# Global Parameters (Shared across all languages)
 [params]
   colorScheme = "blowfish"
   logo = "img/logo.png"
   defaultAppearance = "light" # Force light mode for "white background"
   enableSearch = false # Minimalist
   mainSections = ["projects"] # Show only projects on homepageRecent
-  
   disableTextInHeader = false
   
   [params.header]
@@ -51,15 +23,97 @@ theme = "blowfish"
     showRecent = true
     recentLimit = 6 
 
-[params.author]
-  name = "Patricio Pérez-Henríquez"
-  image = "img/me.jpg" # Copied from source
-  headline = "PhD in Cell and Developmental Biology"
-  links = [
-    { "email" = "mailto:patricio@pperezh.com" },
-    { "github" = "https://github.com/pperezh" },
-    { "linkedin" = "https://www.linkedin.com/in/patricioperezhenriquez/" },
-    { "google-scholar" = "https://scholar.google.es/citations?user=2Y0DMHEAAAAJ&hl=en" },
-    { "orcid" = "https://orcid.org/0000-0003-2761-0004" },
-    { "name" = "CV", "url" = "files/resume.pdf", "icon" = "file-lines" }
-  ]
+[languages]
+  # --- English Configuration ---
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    weight = 1
+    title = "Patricio Pérez-Henríquez"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects/"
+        weight = 10
+      [[languages.en.menu.main]]
+        identifier = "publications"
+        name = "Publications"
+        url = "/publications/"
+        weight = 20
+      [[languages.en.menu.main]]
+        identifier = "talks"
+        name = "Talks"
+        url = "/talks/"
+        weight = 30
+      [[languages.en.menu.main]]
+        identifier = "methods"
+        name = "Methods"
+        url = "/methods/"
+        weight = 40
+      [[languages.en.menu.main]]
+        identifier = "cv"
+        name = "CV"
+        url = "/cv/"
+        weight = 50
+
+    [languages.en.params.author]
+      name = "Patricio Pérez-Henríquez"
+      image = "img/me.jpg"
+      headline = "PhD in Cell and Developmental Biology"
+      links = [
+        { "email" = "mailto:patricio@pperezh.com" },
+        { "github" = "https://github.com/pperezh" },
+        { "linkedin" = "https://www.linkedin.com/in/patricioperezhenriquez/" },
+        { "google-scholar" = "https://scholar.google.es/citations?user=2Y0DMHEAAAAJ&hl=en" },
+        { "orcid" = "https://orcid.org/0000-0003-2761-0004" },
+        { "name" = "CV", "url" = "files/resume.pdf", "icon" = "file-lines" }
+      ]
+
+  # --- Spanish Configuration ---
+  [languages.es]
+    languageName = "Español"
+    languageCode = "es-cl"
+    weight = 2
+    title = "Patricio Pérez-Henríquez"
+
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        identifier = "projects"
+        name = "Proyectos"
+        url = "/projects/"
+        weight = 10
+      [[languages.es.menu.main]]
+        identifier = "publications"
+        name = "Publicaciones"
+        url = "/publications/"
+        weight = 20
+      [[languages.es.menu.main]]
+        identifier = "talks"
+        name = "Charlas"
+        url = "/talks/"
+        weight = 30
+      [[languages.es.menu.main]]
+        identifier = "methods"
+        name = "Métodos"
+        url = "/methods/"
+        weight = 40
+      [[languages.es.menu.main]]
+        identifier = "cv"
+        name = "CV"
+        url = "/cv/"
+        weight = 50
+
+    [languages.es.params.author]
+      name = "Patricio Pérez-Henríquez"
+      image = "img/me.jpg"
+      headline = "PhD en Biología Celular y del Desarrollo"
+      links = [
+        { "email" = "mailto:patricio@pperezh.com" },
+        { "github" = "https://github.com/pperezh" },
+        { "linkedin" = "https://www.linkedin.com/in/patricioperezhenriquez/" },
+        { "google-scholar" = "https://scholar.google.es/citations?user=2Y0DMHEAAAAJ&hl=en" },
+        { "orcid" = "https://orcid.org/0000-0003-2761-0004" },
+        { "name" = "CV", "url" = "files/resume.pdf", "icon" = "file-lines" }
+      ]
