@@ -1,4 +1,8 @@
+global:
+  language: "English"
+
 shortcode:
   recent_articles: "Projects"
+
 recent:
   show_more: "Show more Projects"

@@ -85,3 +85,22 @@ Now that the site is building correctly, you can re-connect your custom domain:
     git push origin main
     ```
 5.  **GitHub Settings**: Go to Settings > Pages > Custom domain and verify it is set to `www.pperezh.com`.
+
+---
+
+## Managing Multi-Language Content
+
+Your site now supports **English (default)** and **Spanish**.
+
+### How to Edit Translations
+1.  **Bio & CV**: Edit `content/_index.es.md` or `content/cv/_index.es.md`.
+2.  **Projects & Publications**:
+    *   I have cloned your existing content to `.es.md` files (e.g., `content/projects/MyProject/index.es.md`).
+    *   Open these files and translate the `title`, `description`, and body text.
+    *   **Tip**: If you delete an `.es.md` file, that specific page will disappear from the Spanish version of the site.
+
+### Adding New Content
+When you add a new project or publication:
+1.  Create the English file normally: `index.md`.
+2.  Create the Spanish copy in the same folder: `index.es.md`.
+

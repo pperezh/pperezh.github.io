@@ -58,6 +58,9 @@ theme = "blowfish"
         url = "/cv/"
         weight = 50
 
+    [languages.en.params]
+      displayName = "EN"
+
     [languages.en.params.author]
       name = "Patricio Pérez-Henríquez"
       image = "img/me.jpg"
@@ -82,28 +85,31 @@ theme = "blowfish"
       [[languages.es.menu.main]]
         identifier = "projects"
         name = "Proyectos"
-        url = "/projects/"
+        url = "/es/projects/"
         weight = 10
       [[languages.es.menu.main]]
         identifier = "publications"
         name = "Publicaciones"
-        url = "/publications/"
+        url = "/es/publications/"
         weight = 20
       [[languages.es.menu.main]]
         identifier = "talks"
         name = "Charlas"
-        url = "/talks/"
+        url = "/es/talks/"
         weight = 30
       [[languages.es.menu.main]]
         identifier = "methods"
         name = "Métodos"
-        url = "/methods/"
+        url = "/es/methods/"
         weight = 40
       [[languages.es.menu.main]]
         identifier = "cv"
         name = "CV"
-        url = "/cv/"
+        url = "/es/cv/"
         weight = 50
+
+    [languages.es.params]
+      displayName = "ES"
 
     [languages.es.params.author]
       name = "Patricio Pérez-Henríquez"

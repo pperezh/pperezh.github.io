@@ -1,0 +1,8 @@
+global:
+  language: "Español"
+
+shortcode:
+  recent_articles: "Proyectos"
+
+recent:
+  show_more: "Ver más Proyectos"
