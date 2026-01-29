@@ -22,52 +22,35 @@ I have implemented custom displays for both Publications and Projects sections.
 
 ## How to Link This Project to GitHub
 
-You have already created a blank repository on GitHub. Follow these steps to push your local code to that repository.
+### 1. Rename/Create Repository
+Ensure your repository on GitHub is named **`pperezh.github.io`** (case-sensitive).
 
-### 1. Initialize Git in your project folder
-Open your terminal, ensure you are in the project directory (`/Users/pperezh/hugo-website`), and run:
+### 2. Update Local Git Remote
+Point your local project to this new repository:
 
 ```bash
-git init
+git remote set-url origin https://github.com/pperezh/pperezh.github.io.git
 ```
 
-### 2. Add all files to the staging area
-This prepares every file in your project to be saved (committed).
+### 3. Push Your Integrity Check
+Push your code (including the new GitHub Action I just added):
 
 ```bash
 git add .
-```
-
-### 3. Commit your changes
-This saves the current state of your project.
-
-```bash
-git commit -m "Initial commit of Hugo website"
-```
-
-### 4. Rename the branch to 'main' (if not already)
-Standard practice is to use `main` as the default branch name.
-
-```bash
-git branch -M main
-```
-
-### 5. Link your local project to the GitHub repository
-Replace `<YOUR_REPO_URL>` with the actual URL of your blank GitHub repository (e.g., `https://github.com/pperezh/my-website.git`).
-
-```bash
-git remote add origin <YOUR_REPO_URL>
-```
-
-### 6. Push your code to GitHub
-This uploads your code to the remote repository.
-
-```bash
-git push -u origin main
+git commit -m "feat: add github action for pages deployment"
+git push origin main
 ```
 
 ---
-**Note**: If you make future changes, you only need to run:
-1. `git add .`
-2. `git commit -m "Description of changes"`
-3. `git push`
+
+## Setting up GitHub Pages (Crucial Step)
+
+After pushing the code, you must configure the repository on GitHub:
+
+1.  Go to your repository **Settings** tab.
+2.  Click on **Pages** in the left sidebar.
+3.  Under **"Build and deployment"**:
+    *   **Source**: Select **GitHub Actions** (Beta) from the dropdown menu.
+4.  That's it! GitHub will detect the `hugo.yaml` file I created and automatically start building your website.
+
+You can check the progress in the **Actions** tab of your repository. Once the green checkmark appears, your site will be live at `https://pperezh.github.io`.
