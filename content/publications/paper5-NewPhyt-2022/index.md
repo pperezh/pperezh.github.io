@@ -10,7 +10,7 @@ lastmod: "2022-12-01"
 
 publication_types: ["article-journal"]
 
-publication: "*New Phytologist*"
+publication: "New Phytologist"
 publication_short: "New Phytol"
 
 abstract: "Auxin phytohormone has a role in most aspects of the life of a land plant and is found even in ancient plants such as single-cell green algae. Auxin's ubiquitous but specific effects have been mainly explained by the extraordinary ability of plants to interpret spatiotemporal patterns of auxin. Here, we highlight how auxin signaling acts inside and outside the nucleus for the regulation of growth and morphogenesis and propose that the future direction of auxin biology lies in the elucidation of a new collaborative paradigm of intra- and extranuclear auxin signaling."

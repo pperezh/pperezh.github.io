@@ -17,7 +17,7 @@ date: "2025-02-05"
 
 publication_types: ["article-journal"]
 
-publication: "*Nature Communications*"
+publication: "Nature Communications"
 publication_short: "Nat Commun"
 
 abstract: "Directional auxin transport and formation of auxin maxima are critical for embryogenesis, organogenesis, pattern formation, and growth coordination in plants, but the mechanisms underpinning the initiation and establishment of these auxin dynamics are not fully understood. Here we show that a self-initiating and -terminating transient auxin flow along the marginal cells (MCs) contributes to the formation of an auxin maximum at the tip of Arabidopsis cotyledon that globally coordinates the interdigitation of puzzle-shaped pavement cells in the cotyledon epidermis. Prior to the interdigitation, indole butyric acid (IBA) is converted to indole acetic acid (IAA) to induce PIN2 accumulation and polarization in the marginal cells, leading to auxin flow toward and accumulation at the cotyledon tip. Once IAA levels at the cotyledon tip reaches a maximum, it activates pavement cell interdigitation as well as the accumulation of the IBA transporter TOB1 in MCs, which sequesters IBA to the vacuole and reduces IBA availability and IAA levels. The reduction of IAA levels results in PIN2 down-regulation and cessation of the auxin flow. Hence, our results elucidate a self-activating and self-terminating transient polar auxin transport system in cotyledons, contributing to the formation of localized auxin maxima that spatiotemporally coordinate pavement cell interdigitation."

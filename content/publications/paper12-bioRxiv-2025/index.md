@@ -16,7 +16,7 @@ publishDate: "2025-12-16"
 
 publication_types: ["article"]
 
-publication: "*bioRxiv*"
+publication: "bioRxiv. under review at The Plant Cell"
 publication_short: "bioRxiv"
 
 abstract: "Precise control of cell elongation and changes in directional growth are required for adaptive root responses. Anisotropic cell expansion in the root's longitudinal axis must be coordinated among adjacent cell files and throughout the radial axis. However, links between activities across developmental axes remain obscure. We identified WALLFLOWER (WFL), a transmembrane receptor-like kinase that accumulates at the inner polar domain of epidermal cells in the root elongation zone. wfl mutants show deeper root waves and altered response to gravitropic re-orientation with increased cell length in specific root epidermal cell files. wfl phenotypes are rescued by WFL-GFP, but not by an intracellular truncation of WFL, which unexpectedly accumulates at the opposite (outer) polar domain. This suggests WFL function and its localization to the inner lateral plasma membrane domain are tightly coupled. Using advanced imaging techniques, including lifetime and atomic force microscopy, we found several mechano-chemical aspects of the wfl outer and inner cell walls are altered. This is consistent with a function for WFL in maintaining balanced mechanical properties between lateral cell walls during expansion. Overall, this work establishes a clear link between lateral protein polarization in peripheral tissues and longitudinal cell expansion required for adaptive organ growth."

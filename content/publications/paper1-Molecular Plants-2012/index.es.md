@@ -11,7 +11,7 @@ lastmod: "2012-11-01"
 
 publication_types: ["article-journal"]
 
-publication: "*Molecular Plant*"
+publication: "Molecular Plant"
 publication_short: "Mol Plant"
 
 abstract: "Lateral root (LR) formation is a key determinant of root system architecture. Auxin is a major regulator of LR organogenesis. Here, we utilized chemical genomics to identify Sortin2, a small molecule that promotes LR formation in Arabidopsis thaliana. We demonstrate that Sortin2 induces endocytic trafficking to the vacuole and that this trafficking pathway is essential for the Sortin2-mediated induction of lateral roots. Notably, this mechanism of LR formation operates independently of the canonical SCF-TIR1/AFB auxin receptor complex. Our findings reveal a novel pathway for lateral root organogenesis that relies on endocytic trafficking to the vacuole, distinct from the well-characterized auxin signaling pathway."

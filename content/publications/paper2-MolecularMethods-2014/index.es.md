@@ -11,7 +11,7 @@ lastmod: "2014-01-01"
 
 publication_types: ["chapter"]
 
-publication: "*Plant Endosomes*"
+publication: "Plant Endosomes"
 publication_short: "Methods Mol. Biol."
 
 abstract: "Chemical genomics is an interdisciplinary research field that utilizes small bioactive molecules to modify cellular functions, being a powerful alternative to classical genetics. This approach is particularly useful to study essential or redundant cellular processes, such as endocytosis. We have developed a chemical genomics screen to identify small molecules that affect the endocytic pathway in Arabidopsis thaliana. Here, we describe the use of the endocytic tracer FM4-64 and confocal microscopy to visualize the effects of these compounds on endosomal trafficking, allowing the identification of new components of the endomembrane system."

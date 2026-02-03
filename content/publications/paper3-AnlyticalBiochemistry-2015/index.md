@@ -11,7 +11,7 @@ lastmod: "2015-01-01"
 
 publication_types: ["article-journal"]
 
-publication: "*Biochemistry & Analytical Biochemistry*"
+publication: "Biochemistry & Analytical Biochemistry"
 publication_short: "Biochem Anal Biochem"
 
 abstract: "Chemical tools have been extensively used to probe complex biological processes. A variety of small molecules (<500 Da) like Brefeldin A, Tyrphostin A23, Wortmannin have been intensively utilized to study endomembrane protein trafficking and have illustrated corresponding biological functions. In this editorial, we discuss the potential of translating chemical and biological information obtained from model systems like yeast and Arabidopsis to crop improvement."

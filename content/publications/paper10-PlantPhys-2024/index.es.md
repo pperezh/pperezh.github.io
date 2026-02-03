@@ -10,7 +10,7 @@ date: "2024-12-02"
 
 publication_types: ["article-journal"]
 
-publication: "*Plant Physiology*"
+publication: "Plant Physiology"
 publication_short: "Plant Physiol"
 
 abstract: "Oriented cell divisions establish plant tissue and organ patterning and produce different cell types; this is particularly true of the highly organized Arabidopsis (Arabidopsis thaliana) root meristem. Mutant alleles of INFLORESCENCE AND ROOT APICES RECEPTOR KINASE (IRK) exhibit excess cell divisions in the root endodermis. IRK is a transmembrane receptor kinase that localizes to the outer polar domain of these cells, suggesting that directional signal perception is necessary to repress endodermal cell division. Here, a detailed examination revealed many of the excess endodermal divisions in irk have division planes that specifically skew toward the outer lateral side. Therefore, we termed them 'outward askew' divisions. Expression of an IRK truncation lacking the kinase domain retains polar localization and prevents outward askew divisions in irk; however, the roots exhibit excess periclinal endodermal divisions. Using cell identity markers, we show that the daughters of outward askew divisions transition from endodermal to cortical identity similar to those of periclinal divisions. These results extend the requirement for IRK beyond repression of cell division activity to include cell division plane positioning. Based on its polarity, we propose that IRK at the outer lateral endodermal cell face participates in division plane positioning to ensure normal root ground tissue patterning."
