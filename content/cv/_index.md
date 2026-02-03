@@ -31,7 +31,7 @@ University of California, Riverside, 2021 - 2024
 University of California, Riverside, 2016 - 2021  
 *Supervisor: Zhenbiao Yang*
 
-## Awards
+## Awards, Fellowships & Grants
 - **Travel Award (IPGSA)** (2025) - National Science Foundation (NSF)
 - **Best Oral Presentation** (2024) - Graduate Division and RPA, UC Riverside
 - **Nominee - Excellence in Postdoctoral Research Award** (2024) - UC Riverside

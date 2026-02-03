@@ -31,7 +31,7 @@ Universidad de California, Riverside, 2021 - 2024
 Universidad de California, Riverside, 2016 - 2021  
 *Supervisor: Zhenbiao Yang*
 
-## Premios
+## Premios, Becas y Subvenciones
 - **Beca de Viaje (IPGSA)** (2025) - *National Science Foundation* (NSF)
 - **Mejor Presentación Oral** (2024) - *Graduate Division and RPA association*, Universidad de California, Riverside
 - **Nominado - Premio a la Excelencia en Investigación Postdoctoral** (2024) - Universidad de California, Riverside
@@ -39,7 +39,7 @@ Universidad de California, Riverside, 2016 - 2021
 - **Beca Postdoctoral** (2017) - Centro Conjunto FAFU-UCR (~$120,000 USD)
 - **Subvención de Gastos Operacionales** (2013) - CONICYT, Chile (~$8,000 USD)
 - **Beca de Pasantía de Investigación** (2012) - Universidad de Chile (~$4,500 USD)
-- **Beca de Valorización de la Investigación Universitaria** (2012) - CONICYT, Chile (~$30,000 USD)
+- **Subvención de Valorización de la Investigación Universitaria** (2012) - CONICYT, Chile (~$30,000 USD)
 - **Beca de Doctorado** (2011) - CONICYT, Chile (~$80,000 USD)
 
 ## Habilidades
