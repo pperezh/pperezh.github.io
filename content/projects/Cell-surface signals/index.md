@@ -12,8 +12,8 @@ tags:
   - Cell Polarity
 ---
 
-Uncovering the mechanisms of extranuclear auxin perception and signaling at the plasma membrane.
+Away from traditional views where plant signaling occurs mainly in the nucleus, we have shown in different cell types and thorugh differente molecular players that signal perception at cell surface is crucial to coordinate complex pattern formation programs.
 
-My research challenges the traditional view that auxin signaling occurs primarily in the nucleus. We identified **ABL1 and ABL2** (ABP1-like proteins) as new auxin-binding proteins that physically interact with **Transmembrane Kinases (TMKs)** at the cell surface. This work demonstrates that ABLs and TMKs act as co-receptors to perceive extracellular auxin, triggering rapid cellular responses independent of transcriptional changes.
+In the flat and interdifitated cells of the leaf epidermis, we showed that **surface proteins act as co-receptors to perceive extracellular signals**, including auxin via ABP1/ABLs and TMKs co-receptors. This perception can be enhance through the formation of membrane nanodomains, triggering rapid intra-cellular responses independent of transcriptional changes. 
 
-Additionally, I investigate how these signaling components are organized into dynamic **membrane nanodomains**. These nanoclusters of lipids and proteins (such as ROP GTPases) act as the fundamental "building blocks" of cell polarity, translating uniform chemical signals into localized growth responses. This project bridges the gap between signal perception and the rapid cytoskeletal reorganizations required for plant development.
+In the root epidermis, we investigated how receptor-like kinases impact **decision for cell division and cell expansion by conveying positional information**. These signals alsocan be organized into nanodomains and are an exquisite example of cell polarity, translating uniform signals into localized growth responses. 

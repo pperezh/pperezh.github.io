@@ -32,10 +32,10 @@ Universidad de California, Riverside, 2016 - 2021
 *Supervisor: Zhenbiao Yang*
 
 ## Premios
-- **Beca de Viaje (IPGSA)** (2025) - Fundación Nacional de Ciencias (NSF)
-- **Mejor Presentación Oral** (2024) - División de Graduados y RPA, UC Riverside
-- **Nominado - Premio a la Excelencia en Investigación Postdoctoral** (2024) - UC Riverside
-- **Nominado - Premio a la Diversidad, Equidad e Inclusión** (2023) - UC Riverside
+- **Beca de Viaje (IPGSA)** (2025) - *National Science Foundation* (NSF)
+- **Mejor Presentación Oral** (2024) - *Graduate Division and RPA association*, Universidad de California, Riverside
+- **Nominado - Premio a la Excelencia en Investigación Postdoctoral** (2024) - Universidad de California, Riverside
+- **Nominado - Premio a la Diversidad, Equidad e Inclusión** (2023) - Universidad de California, Riverside
 - **Beca Postdoctoral** (2017) - Centro Conjunto FAFU-UCR (~$120,000 USD)
 - **Subvención de Gastos Operacionales** (2013) - CONICYT, Chile (~$8,000 USD)
 - **Beca de Pasantía de Investigación** (2012) - Universidad de Chile (~$4,500 USD)
@@ -43,9 +43,9 @@ Universidad de California, Riverside, 2016 - 2021
 - **Beca de Doctorado** (2011) - CONICYT, Chile (~$80,000 USD)
 
 ## Habilidades
-- **Microscopía**: Confocal, espectral, super-res, FLIM, AFM
+- **Microscopía**: Confocal, espectral, super-resolución, de tiempo de vida de fluorescencia (FLIM), de fuerza atómica (AFM).
 - **Análisis de Imágenes**: Segmentación, ImageJ/Fiji, R, Python
-- **Biología Molecular**: Clonación, IP, qRT-PCR
+- **Biología Molecular**: Clonación Gateway, IP, qRT-PCR
 
 **Idiomas**  
 Inglés (100%), Español (100%)

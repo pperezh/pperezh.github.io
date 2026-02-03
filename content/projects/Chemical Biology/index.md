@@ -14,6 +14,6 @@ tags:
 
 Using small bioactive molecules to probe complex biological systems and develop new biotechnological tools.
 
-This project utilizes **chemical genomics** to bypass the limitations of traditional genetics (such as gene redundancy or lethality). We have successfully used bioactive molecules like **Sortin2** to transiently perturb endomembrane trafficking, allowing us to dissect rapid dynamic processes in real-time. 
+This project utilizes **chemical genomics** to bypass the limitations of traditional genetics (such as gene redundancy or lethality). We have successfully used bioactive molecules like **Sortin2** to transiently perturb endomembrane trafficking, allowing us to dissect rapid dynamic processes in real-time and trigger organogenesis. 
 
-Beyond basic research, we apply these chemical tools to translational contexts. For example, we identified **iron chelators** capable of regenerating neuritic trees in dopaminergic neurons, offering potential therapeutic avenues for Parkinson's disease. Furthermore, we are working to translate chemical information from model systems (yeast and *Arabidopsis*) to agricultural crops, developing "agrochemicals" that can modulate plant growth and stress resilience.
+Beyond basic research, we apply these chemical tools to translational contexts. For example, we identified **iron chelators** capable of regenerating neuritic trees in dopaminergic neurons, offering potential therapeutic avenues for Parkinson's disease. Furthermore, we worked  on translating chemical information from model systems (yeast and *Arabidopsis*) to agricultural crops, developing "agrochemicals" that can modulate plant growth and stress resilience.
