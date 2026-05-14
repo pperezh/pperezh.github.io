@@ -1,5 +1,5 @@
 ---
-title: "Endocytic Trafficking towards the Vacuole Plays a Key Role in the Auxin Receptor SCF^TIR1/AFB-Independent Mechanism of Lateral Root Formation in A. thaliana"
+title: "El tráfico endocítico hacia la vacuola desempeña un papel clave en el mecanismo independiente del receptor de auxina SCF^TIR1/AFB en la formación de raíces laterales en A. thaliana"
 authors:
   - "**Patricio Pérez-Henríquez**"
   - Natasha V. Raikhel
@@ -14,7 +14,7 @@ publication_types: ["article-journal"]
 publication: "Molecular Plant"
 publication_short: "Mol Plant"
 
-abstract: "Lateral root (LR) formation is a key determinant of root system architecture. Auxin is a major regulator of LR organogenesis. Here, we utilized chemical genomics to identify Sortin2, a small molecule that promotes LR formation in Arabidopsis thaliana. We demonstrate that Sortin2 induces endocytic trafficking to the vacuole and that this trafficking pathway is essential for the Sortin2-mediated induction of lateral roots. Notably, this mechanism of LR formation operates independently of the canonical SCF-TIR1/AFB auxin receptor complex. Our findings reveal a novel pathway for lateral root organogenesis that relies on endocytic trafficking to the vacuole, distinct from the well-characterized auxin signaling pathway."
+abstract: "La formación de raíces laterales (LR) es un determinante clave de la arquitectura del sistema radicular. La auxina es un regulador principal de la organogénesis de LR. Aquí, utilizamos genómica química para identificar Sortin2, una molécula pequeña que promueve la formación de LR en Arabidopsis thaliana. Demostramos que Sortin2 induce el tráfico endocítico hacia la vacuola y que esta vía de tráfico es esencial para la inducción de raíces laterales mediada por Sortin2. Notablemente, este mecanismo de formación de LR opera independientemente del complejo receptor de auxina canónico SCF-TIR1/AFB. Nuestros hallazgos revelan una nueva vía para la organogénesis de raíces laterales que depende del tráfico endocítico hacia la vacuola, distinta de la vía de señalización de auxina bien caracterizada."
 
 tags:
   - Lateral root

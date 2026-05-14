@@ -14,17 +14,17 @@
 /* Light Mode (Default) */
 :root:not(.dark) {
     --bg: #ffffff !important;
-    --text: #000000 !important;
-    --color-primary: 0, 0, 0 !important;
-    --color-secondary: 0, 0, 0 !important;
+    --text: #1a1a1a !important;
+    --color-primary: 15, 23, 42 !important;
+    --color-secondary: 71, 85, 105 !important;
 }
 
 /* Dark Mode */
 .dark {
-    --bg: #000000 !important;
-    --text: #ffffff !important;
-    --color-primary: 255, 255, 255 !important;
-    --color-secondary: 255, 255, 255 !important;
+    --bg: #0f172a !important;
+    --text: #e2e8f0 !important;
+    --color-primary: 147, 197, 253 !important;
+    --color-secondary: 103, 232, 249 !important;
 }
 
 body {
@@ -51,7 +51,69 @@ body {
 /* Button override */
 .button {
     background-color: var(--text);
-    /* Flip for buttons */
     color: var(--bg);
     border-radius: 0px;
+}
+
+/* Dark mode table fixes (MCP ranking tables) */
+.dark .tt th {
+    color: #94a3b8 !important;
+    border-bottom-color: #334155 !important;
+}
+.dark .tt td {
+    border-bottom-color: #334155 !important;
+}
+.dark .tt tr.data-row:hover td {
+    background: #1e293b !important;
+}
+.dark .sb {
+    color: #94a3b8 !important;
+}
+.dark .sl {
+    color: #94a3b8 !important;
+}
+.dark .sc {
+    color: #94a3b8 !important;
+}
+.dark .bar-bg {
+    background: #334155 !important;
+}
+.dark .bg {
+    background: #1a3a1a !important;
+    color: #6ee7b7 !important;
+}
+.dark .ba {
+    background: #3b2a0a !important;
+    color: #fbbf24 !important;
+}
+.dark .br {
+    background: #3b1111 !important;
+    color: #fca5a5 !important;
+}
+.dark .bb {
+    background: #0c2d4a !important;
+    color: #93c5fd !important;
+}
+.dark .bgy {
+    background: #2d2a24 !important;
+    color: #d6d3d1 !important;
+}
+.dark .bp {
+    background: #1e1b4b !important;
+    color: #c4b5fd !important;
+}
+.dark .bar-teal {
+    background: #34d399 !important;
+}
+.dark .bar-amber {
+    background: #f59e0b !important;
+}
+.dark .out-row td,
+.dark .out-row .nm,
+.dark .out-row .rk,
+.dark .out-row span {
+    color: #64748b !important;
+}
+.dark .paid-row td {
+    opacity: 1 !important;
 }

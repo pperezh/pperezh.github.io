@@ -12,8 +12,8 @@ tags:
   - Trafficking
 ---
 
-Elucidating the role of endomembrane trafficking in specifying cell fate and organ architecture.
+Elucidando el papel del tráfico endomembranal en la especificación del destino celular y la arquitectura de órganos.
 
-Organogenesis requires precise control over cell division and identity. My research highlights the critical role of **endocytic trafficking** in these processes, specifically in the formation of lateral roots. We discovered a novel mechanism where endocytic trafficking to the vacuole triggers **Lateral Root Founder Cell (LRFC)** specification upstream of—and distinct from—the canonical auxin signaling pathway.
+La organogénesis requiere un control preciso sobre la división y la identidad celular. Mi investigación destaca el papel crítico del **tráfico endocítico** en estos procesos, específicamente en la formación de raíces laterales. Descubrimos un mecanismo novedoso donde el tráfico endocítico hacia la vacuola desencadena la especificación de **Células Fundadoras de Raíces Laterales (LRFC)** aguas arriba de —y distinto de— la vía canónica de señalización de auxina.
 
-In parallel, we study how directional signaling regulates cell division orientation in the root meristem. By investigating the **INFLORESCENCE AND ROOT APICES RECEPTOR KINASE (IRK)**, we are mapping how receptor localization determines the plane of cell division in the endodermis. This project emphasizes that the movement of proteins (trafficking) is just as important as the proteins themselves in defining plant architecture.
+En paralelo, estudiamos cómo la señalización direccional regula la orientación de la división celular en el meristemo de la raíz. Investigando la **Quinasa Receptora de Apices de Inflorescencia y Raíz (IRK)**, estamos mapeando cómo la localización del receptor determina el plano de división celular en la endodermis. Este proyecto enfatiza que el movimiento de proteínas (tráfico) es tan importante como las proteínas mismas en la definición de la arquitectura vegetal.

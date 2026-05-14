@@ -12,8 +12,8 @@ tags:
   - Translational Biology
 ---
 
-Using small bioactive molecules to probe complex biological systems and develop new biotechnological tools.
+Uso de pequeñas moléculas bioactivas para estudiar sistemas biológicos complejos y desarrollar nuevas herramientas biotecnológicas.
 
-This project utilizes **chemical genomics** to bypass the limitations of traditional genetics (such as gene redundancy or lethality). We have successfully used bioactive molecules like **Sortin2** to transiently perturb endomembrane trafficking, allowing us to dissect rapid dynamic processes in real-time. 
+Este proyecto utiliza **genómica química** para superar las limitaciones de la genética tradicional (como la redundancia génica o la letalidad). Hemos utilizado exitosamente moléculas bioactivas como **Sortin2** para perturbar transitoriamente el tráfico endomembranal, permitiéndonos diseccionar procesos dinámicos rápidos en tiempo real.
 
-Beyond basic research, we apply these chemical tools to translational contexts. For example, we identified **iron chelators** capable of regenerating neuritic trees in dopaminergic neurons, offering potential therapeutic avenues for Parkinson's disease. Furthermore, we are working to translate chemical information from model systems (yeast and *Arabidopsis*) to agricultural crops, developing "agrochemicals" that can modulate plant growth and stress resilience.
+Más allá de la investigación básica, aplicamos estas herramientas químicas en contextos traslacionales. Por ejemplo, identificamos **quelantes de hierro** capaces de regenerar árboles neuríticos en neuronas dopaminérgicas, ofreciendo posibles avenidas terapéuticas para la enfermedad de Parkinson. Además, estamos trabajando en traducir información química de sistemas modelo (levadura y *Arabidopsis*) a cultivos agrícolas, desarrollando "agroquímicos" que pueden modular el crecimiento vegetal y la resiliencia al estrés.

@@ -1,5 +1,5 @@
 ---
-title: "ABLs and TMKs are co-receptors for extracellular auxin"
+title: "ABLs y TMKs son co-receptores de auxina extracelular"
 authors:
   - Yongqiang Yu
   - Wenxin Tang
@@ -31,7 +31,7 @@ publication_types: ["article-journal"]
 publication: "Cell"
 publication_short: "Cell"
 
-abstract: "Extracellular perception of auxin, an essential phytohormone in plants, has been debated for decades. Auxin-binding protein 1 (ABP1) physically interacts with quintessential transmembrane kinases (TMKs) and was proposed to act as an extracellular auxin receptor, but its role was disputed because abp1 knockout mutants lack obvious morphological phenotypes. Here, we identified two new auxin-binding proteins, ABL1 and ABL2, that are localized to the apoplast and directly interact with the extracellular domain of TMKs in an auxin-dependent manner. Furthermore, functionally redundant ABL1 and ABL2 genetically interact with TMKs and exhibit functions that overlap with those of ABP1 as well as being independent of ABP1. Importantly, the extracellular domain of TMK1 itself binds auxin and synergizes with either ABP1 or ABL1 in auxin binding. Thus, our findings discovered auxin receptors ABL1 and ABL2 having functions overlapping with but distinct from ABP1 and acting together with TMKs as co-receptors for extracellular auxin."
+abstract: "La percepción extracelular de auxina, una fitohormona esencial en las plantas, ha sido debatida durante décadas. La proteína de unión a auxina 1 (ABP1) interactúa físicamente con las quinasas transmembrana quintesenciales (TMKs) y se propuso que actúa como receptor extracelular de auxina, pero su papel fue cuestionado porque los mutantes knockout de abp1 carecen de fenotipos morfológicos obvios. Aquí, identificamos dos nuevas proteínas de unión a auxina, ABL1 y ABL2, que se localizan en el apoplasto e interactúan directamente con el dominio extracelular de las TMKs de manera dependiente de auxina. Además, ABL1 y ABL2, funcionalmente redundantes, interactúan genéticamente con las TMKs y exhiben funciones que se superponen con las de ABP1 así como funciones independientes de ABP1. Es importante destacar que el dominio extracelular de TMK1 por sí mismo une auxina y actúa sinérgicamente con ABP1 o ABL1 en la unión a auxina. Por lo tanto, nuestros hallazgos descubrieron los receptores de auxina ABL1 y ABL2 con funciones que se superponen pero son distintas de ABP1, actuando junto con las TMKs como co-receptores de auxina extracelular."
 
 tags:
   - Auxin

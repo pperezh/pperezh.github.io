@@ -12,8 +12,8 @@ tags:
   - Cell Polarity
 ---
 
-Uncovering the mechanisms of extranuclear auxin perception and signaling at the plasma membrane.
+Descubriendo los mecanismos de percepción y señalización de auxina extranuclear en la membrana plasmática.
 
-My research challenges the traditional view that auxin signaling occurs primarily in the nucleus. We identified **ABL1 and ABL2** (ABP1-like proteins) as new auxin-binding proteins that physically interact with **Transmembrane Kinases (TMKs)** at the cell surface. This work demonstrates that ABLs and TMKs act as co-receptors to perceive extracellular auxin, triggering rapid cellular responses independent of transcriptional changes.
+Mi investigación desafía la visión tradicional de que la señalización de auxina ocurre principalmente en el núcleo. Identificamos **ABL1 y ABL2** (proteínas similares a ABP1) como nuevas proteínas de unión a auxina que interactúan físicamente con las **Quinasas Transmembrana (TMKs)** en la superficie celular. Este trabajo demuestra que las ABLs y TMKs actúan como co-receptores para percibir auxina extracelular, desencadenando respuestas celulares rápidas independientes de cambios transcripcionales.
 
-Additionally, I investigate how these signaling components are organized into dynamic **membrane nanodomains**. These nanoclusters of lipids and proteins (such as ROP GTPases) act as the fundamental "building blocks" of cell polarity, translating uniform chemical signals into localized growth responses. This project bridges the gap between signal perception and the rapid cytoskeletal reorganizations required for plant development.
+Adicionalmente, investigo cómo estos componentes de señalización se organizan en **nanodominios de membrana** dinámicos. Estos nanoagrupamientos de lípidos y proteínas (como GTPasas ROP) actúan como los "bloques constructores" fundamentales de la polaridad celular, traduciendo señales químicas uniformes en respuestas de crecimiento localizadas. Este proyecto conecta la percepción de señales con las reorganizaciones citoesqueléticas rápidas requeridas para el desarrollo vegetal.

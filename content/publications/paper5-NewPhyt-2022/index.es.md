@@ -1,5 +1,5 @@
 ---
-title: "Extranuclear auxin signaling: a new insight into auxin's versatility"
+title: "Señalización extranuclear de auxina: una nueva perspectiva sobre la versatilidad de la auxina"
 authors:
   - "**Patricio Pérez-Henríquez**"
   - Zhenbiao Yang
@@ -13,7 +13,7 @@ publication_types: ["article-journal"]
 publication: "New Phytologist"
 publication_short: "New Phytol"
 
-abstract: "Auxin phytohormone has a role in most aspects of the life of a land plant and is found even in ancient plants such as single-cell green algae. Auxin's ubiquitous but specific effects have been mainly explained by the extraordinary ability of plants to interpret spatiotemporal patterns of auxin. Here, we highlight how auxin signaling acts inside and outside the nucleus for the regulation of growth and morphogenesis and propose that the future direction of auxin biology lies in the elucidation of a new collaborative paradigm of intra- and extranuclear auxin signaling."
+abstract: "La fitohormona auxina tiene un papel en la mayoría de los aspectos de la vida de una planta terrestre y se encuentra incluso en plantas antiguas como las algas verdes unicelulares. Los efectos ubicuos pero específicos de la auxina se han explicado principalmente por la extraordinaria capacidad de las plantas para interpretar patrones espaciotemporales de auxina. Aquí, destacamos cómo la señalización de auxina actúa dentro y fuera del núcleo para la regulación del crecimiento y la morfogénesis, y proponemos que la dirección futura de la biología de la auxina radica en la elucidación de un nuevo paradigma colaborativo de señalización de auxina intra- y extranuclear."
 
 tags:
   - Auxin

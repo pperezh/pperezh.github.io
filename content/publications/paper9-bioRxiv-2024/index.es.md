@@ -1,5 +1,5 @@
 ---
-title: "Hierarchical global and local auxin signals coordinate cellular interdigitation in Arabidopsis"
+title: "Señales jerárquicas globales y locales de auxina coordinan la interdigitación celular en Arabidopsis"
 authors:
   - "**Patricio Pérez-Henríquez**"
   - Hongjiang Li
@@ -30,7 +30,7 @@ publication_types: ["article"]
 publication: "bioRxiv. under review at Nature Plants"
 publication_short: "bioRxiv"
 
-abstract: "The development of multicellular tissues requires both local and global coordination of cell polarization, however, the mechanisms underlying their interplay are poorly understood. In Arabidopsis, leaf epidermal pavement cells (PC) develop a puzzle-piece shape locally coordinated through apoplastic auxin signaling. Here we show auxin also globally coordinates interdigitation by activating the TIR1/AFB-dependent nuclear signaling pathway. This pathway promotes a transient maximum of auxin at the cotyledon tip, which then moves across the leaf activating local PC polarization, as demonstrated by locally uncaged auxin globally rescuing defects in tir1;afb1;afb2;afb4;afb5 mutant but not in tmk1;tmk2;tmk3;tmk4 mutants. Our findings show that hierarchically integrated global and local auxin signaling systems, which respectively depend on TIR1/AFB-dependent gene transcription in the nucleus and TMK-mediated rapid activation of ROP GTPases at the cell surface, control PC interdigitation patterns in Arabidopsis cotyledons, revealing a mechanism for coordinating a local cellular process with the development of whole tissues."
+abstract: "El desarrollo de tejidos multicelulares requiere tanto la coordinación local como global de la polarización celular; sin embargo, los mecanismos subyacentes a su interacción son poco comprendidos. En Arabidopsis, las células epidérmicas del pavimento de la hoja (PC) desarrollan una forma de pieza de rompecabezas coordinada localmente a través de la señalización apoplástica de auxina. Aquí mostramos que la auxina también coordina globalmente la interdigitación activando la vía de señalización nuclear dependiente de TIR1/AFB. Esta vía promueve un máximo transitorio de auxina en la punta del cotiledón, que luego se mueve a través de la hoja activando la polarización local de las PC, como lo demuestra el hecho de que la auxina liberada localmente rescata globalmente los defectos en el mutante tir1;afb1;afb2;afb4;afb5 pero no en los mutantes tmk1;tmk2;tmk3;tmk4. Nuestros hallazgos muestran que sistemas de señalización de auxina global y local integrados jerárquicamente, que dependen respectivamente de la transcripción génica dependiente de TIR1/AFB en el núcleo y la activación rápida de GTPasas ROP mediada por TMK en la superficie celular, controlan los patrones de interdigitación de las PC en cotiledones de Arabidopsis, revelando un mecanismo para coordinar un proceso celular local con el desarrollo de tejidos enteros."
 
 tags:
   - Auxin

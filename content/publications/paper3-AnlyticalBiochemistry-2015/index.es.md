@@ -1,5 +1,5 @@
 ---
-title: "Bioactive Molecules: Translating Chemical and Biological Information from Yeast through Arabidopsis to Crops"
+title: "Moléculas bioactivas: Traducción de información química y biológica desde levaduras pasando por Arabidopsis hasta los cultivos"
 authors:
   - Cecilia Rodriguez-Furlán
   - "**Patricio Pérez-Henríquez**"
@@ -14,7 +14,7 @@ publication_types: ["article-journal"]
 publication: "Biochemistry & Analytical Biochemistry"
 publication_short: "Biochem Anal Biochem"
 
-abstract: "Chemical tools have been extensively used to probe complex biological processes. A variety of small molecules (<500 Da) like Brefeldin A, Tyrphostin A23, Wortmannin have been intensively utilized to study endomembrane protein trafficking and have illustrated corresponding biological functions. In this editorial, we discuss the potential of translating chemical and biological information obtained from model systems like yeast and Arabidopsis to crop improvement."
+abstract: "Las herramientas químicas se han utilizado extensamente para estudiar procesos biológicos complejos. Una variedad de moléculas pequeñas (<500 Da) como Brefeldin A, Tyrphostin A23 y Wortmannin han sido utilizadas intensivamente para estudiar el tráfico de proteínas endomembranales y han ilustrado sus correspondientes funciones biológicas. En este editorial, discutimos el potencial de traducir la información química y biológica obtenida de sistemas modelo como levaduras y Arabidopsis hacia la mejora de cultivos."
 
 tags:
   - Chemical biology

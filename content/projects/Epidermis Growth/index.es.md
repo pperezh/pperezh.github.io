@@ -12,8 +12,8 @@ tags:
   - Morphogenesis
 ---
 
-Decoding the biomechanical and signaling rules that shape plant epidermal cells.
+Descifrando las reglas biomecánicas y de señalización que dan forma a las células epidérmicas vegetales.
 
-This project explores how plants coordinate complex shapes in their outer protective layer, the epidermis. Using Arabidopsis **pavement cells** as a model, we discovered that auxin acts as a hierarchical signal: a global auxin flow establishes a "blueprint" across the tissue, while local auxin signaling drives the interdigitation (puzzle-piece shape) of individual cells. 
+Este proyecto explora cómo las plantas coordinan formas complejas en su capa protectora externa, la epidermis. Usando **células del pavimento** de *Arabidopsis* como modelo, descubrimos que la auxina actúa como una señal jerárquica: un flujo global de auxina establece un "plano" a través del tejido, mientras que la señalización local de auxina impulsa la interdigitación (forma de piezas de rompecabezas) de las células individuales.
 
-We recently identified that this local shaping is initiated by auxin signaling rather than mechanical stress, fundamentally shifting our understanding of plant morphogenesis. Extending this to the root, my work on **WALLFLOWER (WFL)** reveals how polarized receptor kinases modify cell wall properties to control anisotropic growth. Together, these studies explain how plants generate robust yet plastic epidermal patterns during organ growth.
+Recientemente identificamos que esta conformación local es iniciada por señalización de auxina en lugar de estrés mecánico, cambiando fundamentalmente nuestra comprensión de la morfogénesis vegetal. Extendiendo esto a la raíz, mi trabajo sobre **WALLFLOWER (WFL)** revela cómo quinasas receptor polarizadas modifican las propiedades de la pared celular para controlar el crecimiento anisotrópico. Juntos, estos estudios explican cómo las plantas generan patrones epidérmicos robustos y plásticos durante el crecimiento de los órganos.

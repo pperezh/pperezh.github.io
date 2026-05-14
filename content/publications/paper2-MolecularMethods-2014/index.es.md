@@ -1,5 +1,5 @@
 ---
-title: "The Use of Multidrug Approach to Uncover New Players of the Endomembrane System Trafficking Machinery"
+title: "Uso del enfoque multidroga para descubrir nuevos actores de la maquinaria de tráfico del sistema endomembranal"
 authors:
   - Daniela Urbina
   - "**Patricio Pérez-Henríquez**"
@@ -14,7 +14,7 @@ publication_types: ["chapter"]
 publication: "Plant Endosomes"
 publication_short: "Methods Mol. Biol."
 
-abstract: "Chemical genomics is an interdisciplinary research field that utilizes small bioactive molecules to modify cellular functions, being a powerful alternative to classical genetics. This approach is particularly useful to study essential or redundant cellular processes, such as endocytosis. We have developed a chemical genomics screen to identify small molecules that affect the endocytic pathway in Arabidopsis thaliana. Here, we describe the use of the endocytic tracer FM4-64 and confocal microscopy to visualize the effects of these compounds on endosomal trafficking, allowing the identification of new components of the endomembrane system."
+abstract: "La genómica química es un campo de investigación interdisciplinario que utiliza moléculas bioactivas pequeñas para modificar funciones celulares, siendo una alternativa poderosa a la genética clásica. Este enfoque es particularmente útil para estudiar procesos celulares esenciales o redundantes, como la endocitosis. Hemos desarrollado un cribado de genómica química para identificar moléculas pequeñas que afectan la vía endocítica en Arabidopsis thaliana. Aquí, describimos el uso del trazador endocítico FM4-64 y microscopía confocal para visualizar los efectos de estos compuestos sobre el tráfico endosomal, permitiendo la identificación de nuevos componentes del sistema endomembranal."
 
 tags:
   - Chemical genomics

@@ -57,6 +57,11 @@ theme = "blowfish"
         name = "CV"
         url = "/cv/"
         weight = 50
+      [[languages.en.menu.main]]
+        identifier = "ai-tools"
+        name = "AI Tools"
+        url = "/ai-tools/"
+        weight = 60
 
     [languages.en.params]
       displayName = "EN"
@@ -107,6 +112,11 @@ theme = "blowfish"
         name = "CV"
         url = "/es/cv/"
         weight = 50
+      [[languages.es.menu.main]]
+        identifier = "ai-tools"
+        name = "Herramientas IA"
+        url = "/es/ai-tools/"
+        weight = 60
 
     [languages.es.params]
       displayName = "ES"
@@ -123,3 +133,7 @@ theme = "blowfish"
         { "orcid" = "https://orcid.org/0000-0003-2761-0004" },
         { "name" = "CV", "url" = "files/resume.pdf", "icon" = "file-lines" }
       ]
+
+# Allow raw HTML inside Markdown files
+[markup.goldmark.renderer]
+  unsafe = true
