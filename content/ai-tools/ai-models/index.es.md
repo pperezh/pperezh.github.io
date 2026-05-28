@@ -1,5 +1,5 @@
 ---
-title: "Más allá del modelo de IA por defecto: una guía de campo para el nuevo panorama de la IA"
+title: "Más allá del modelo de IA por defecto"
 date: 2026-05-27
 description: "Una guía de campo interactiva sobre el panorama moderno de la IA, que explica por qué depender de un solo modelo es una limitación de flujo de trabajo y mapea laboratorios clave, modelos e interfaces."
 tags: ["IA", "modelos", "flujo-de-trabajo"]

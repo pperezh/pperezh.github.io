@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Default AI Model: A Field Guide to the New AI Landscape"
+title: "Beyond the Default AI Model"
 date: 2026-05-27
 description: "An interactive field guide to the modern AI landscape, outlining why relying on a single model is a workflow limitation and mapping out key labs, models, and interfaces."
 tags: ["AI", "models", "workflow"]

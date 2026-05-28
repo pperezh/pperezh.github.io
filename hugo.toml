@@ -34,8 +34,8 @@ theme = "blowfish"
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "projects"
-        name = "Projects"
-        url = "/projects/"
+        name = "Research"
+        url = "/research/"
         weight = 10
       [[languages.en.menu.main]]
         identifier = "publications"
@@ -44,14 +44,9 @@ theme = "blowfish"
         weight = 20
       [[languages.en.menu.main]]
         identifier = "talks"
-        name = "Talks"
+        name = "Outreach & Resources"
         url = "/talks/"
         weight = 30
-      [[languages.en.menu.main]]
-        identifier = "methods"
-        name = "Methods"
-        url = "/methods/"
-        weight = 40
       [[languages.en.menu.main]]
         identifier = "cv"
         name = "CV"
@@ -64,7 +59,7 @@ theme = "blowfish"
         weight = 60
 
     [languages.en.params]
-      displayName = "EN"
+      displayName = "🇺🇸 EN"
 
     [languages.en.params.author]
       name = "Patricio Pérez-Henríquez"
@@ -89,8 +84,8 @@ theme = "blowfish"
     [languages.es.menu]
       [[languages.es.menu.main]]
         identifier = "projects"
-        name = "Proyectos"
-        url = "/es/projects/"
+        name = "Investigación"
+        url = "/es/research/"
         weight = 10
       [[languages.es.menu.main]]
         identifier = "publications"
@@ -99,14 +94,9 @@ theme = "blowfish"
         weight = 20
       [[languages.es.menu.main]]
         identifier = "talks"
-        name = "Charlas"
+        name = "Difusión y Recursos"
         url = "/es/talks/"
         weight = 30
-      [[languages.es.menu.main]]
-        identifier = "methods"
-        name = "Métodos"
-        url = "/es/methods/"
-        weight = 40
       [[languages.es.menu.main]]
         identifier = "cv"
         name = "CV"
@@ -119,7 +109,7 @@ theme = "blowfish"
         weight = 60
 
     [languages.es.params]
-      displayName = "ES"
+      displayName = "🇪🇸 ES"
 
     [languages.es.params.author]
       name = "Patricio Pérez-Henríquez"

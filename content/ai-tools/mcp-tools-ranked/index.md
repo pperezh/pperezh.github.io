@@ -1,5 +1,5 @@
 ---
-title: "Writing AI-assisted academic text: which MCP tools should I connect?"
+title: "Citations and references in AI-assisted academic writing"
 date: 2026-05-13
 description: "A ranked comparison of MCP server tools for citation lookup, topic expansion, and literature review workflows. Covers Scite, Semantic Scholar, OpenAlex, PubMed, Zotero, and more."
 tags: ["AI", "MCP", "literature", "tools"]

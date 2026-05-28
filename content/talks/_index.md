@@ -1,22 +1,24 @@
 ---
-title: "Talks"
-description: "Conference talks and seminars."
+title: "Outreach & Resources"
+description: "Methodologies, protocols, conference talks, and seminars."
 layout: "simple"
 ---
 
+## Protocols & Resources
+
+- **Pavement Cell segmentation** - automatic protocol for data compilation  
+  [Github repository](https://github.com/pperezh/global-local-auxin)
+- **Pavement Cell segmentation** - half-violin graphing with ggplot2  
+  [Github repository](https://github.com/pperezh/global-local-auxin)
+- **Segmentation in shoot epidermis** - PaCeQuant basics  
+  [YouTube](https://youtu.be/bN4UhMB07ZM?si=BiO8DVe31ojhTaW1)
+- **Segmentation in root epidermis** - MorphographX
+- **Morphograph 2.5D surface projection** - MorphographX
+- **Spectral microscopy** - for color separation
+- **FLIM microscopy** - and lifetime calculation
+- **AFM microscopy** - in life speciments
+
 ## Seminar and conference talks
-
-<!--
-INSTRUCTIONS FOR ADDING PDF LINKS:
-1.  **Upload File**: Place your PDF file in the `static/files` folder of your project (e.g., `static/files/my-talk.pdf`).
-2.  **Add Link**: To add a download link under a talk, use the following Markdown format:
-    [📄 Download Slides](/files/my-talk.pdf)
-
-    Example context:
-    - **“Talk Title”** (Date)
-      *Venue Name*
-      [📄 Download Slides](/files/my-talk.pdf)
--->
 
 ### Invited Seminars
 
@@ -80,4 +82,3 @@ INSTRUCTIONS FOR ADDING PDF LINKS:
   *V Annual Meeting of Plant Biology. Olmué, Chile*  
   Authors: Pérez-Henríquez P., Norambuena L.  
   [📄 Download Slides](/files/sortin2-2010.pdf)
-

@@ -1,5 +1,5 @@
 ---
-title: "Escribiendo texto academico assistido por IA: qué herramientas MCP debo usar?"
+title: "Citaciones y referencias en el texto academico assistido por IA"
 date: 2026-05-13
 description: "Comparación jerarquizada de servidores MCP para búsqueda de citas, expansión temática y revisión bibliográfica. Incluye Scite, Semantic Scholar, OpenAlex, PubMed, Zotero y más."
 tags: ["IA", "MCP", "literatura", "herramientas"]
