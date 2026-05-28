@@ -271,8 +271,6 @@ Me causa una curiosidad genuina saber qué combinaciones te han funcionado. [pat
   }
 </style>
 
-
-
 <!-- Contenedor exterior del widget con temática oscura -->
 <div class="ai-models-wrapper">
 <!-- Contenido de la página que se clona y exporta al hacer clic en Descargar -->
@@ -504,5 +502,3 @@ Me causa una curiosidad genuina saber qué combinaciones te han funcionado. [pat
 <p class="asterisk-note"><span>*</span> Lanzamiento reciente — ya es el mejor modelo chino en las tablas de clasificación globales.</p>
 </div>
 </div>
-
-

@@ -287,8 +287,6 @@ I am genuinely curious what combinations have worked for you. [patricio@pperezh.
   }
 </style>
 
-
-
 <!-- Outer wrapper representing the dark-themed block widget -->
 <div class="ai-models-wrapper">
 <!-- The inner page contents which gets cloned and exported on Download -->
@@ -520,5 +518,3 @@ I am genuinely curious what combinations have worked for you. [patricio@pperezh.
 <p class="asterisk-note"><span>*</span> Recent release — already the best Chinese model on global leaderboards.</p>
 </div>
 </div>
-
-
