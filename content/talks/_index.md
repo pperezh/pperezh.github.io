@@ -1,5 +1,5 @@
 ---
-title: "Outreach & Resources"
+title: "Resources"
 description: "Methodologies, protocols, conference talks, and seminars."
 layout: "simple"
 ---

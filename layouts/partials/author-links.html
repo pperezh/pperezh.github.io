@@ -1,20 +1,61 @@
 {{ with .Site.Params.Author.links }}
-<div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
-    {{ range $link := . }}
+  {{ $academic := slice }}
+  {{ $tech := slice }}
+
+  {{ range $link := . }}
+    {{ $isAcademic := true }}
+    {{ $name := "" }}
+    {{ $url := "" }}
+    {{ $icon := "" }}
+    
     {{ if and (isset $link "url") (isset $link "name") }}
-    {{ $url := $link.url }}
-    {{ $name := $link.name }}
-    {{ $icon := $link.icon | default $name }}
-    <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="{{ $url | safeURL }}" target="_blank"
-        aria-label="{{ $name }}" title="{{ $name }}" rel="me noopener noreferrer"><span
-            class="inline-block align-text-bottom">{{ partial "icon.html" $icon }}</span></a>
+      {{ $url = $link.url }}
+      {{ $name = $link.name }}
+      {{ $icon = $link.icon | default $name }}
     {{ else }}
-    {{ range $name, $url := $link }}
-    <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="{{ $url | safeURL }}" target="_blank"
-        aria-label="{{ $name | title }}" title="{{ $name | title }}" rel="me noopener noreferrer"><span
-            class="inline-block align-text-bottom">{{ partial "icon.html" $name }}</span></a>
+      {{ range $k, $v := $link }}
+        {{ $name = $k }}
+        {{ $url = $v }}
+        {{ $icon = $k }}
+      {{ end }}
     {{ end }}
+
+    {{/* Determine if it is Academic or Tech/Social */}}
+    {{ if or (eq $icon "wand-magic-sparkles") (eq $icon "github") (eq $icon "linkedin") (eq $name "AI Tools") (eq $name "Herramientas IA") }}
+      {{ $isAcademic = false }}
     {{ end }}
+
+    {{ $item := dict "name" $name "url" $url "icon" $icon }}
+    {{ if $isAcademic }}
+      {{ $academic = $academic | append $item }}
+    {{ else }}
+      {{ $tech = $tech | append $item }}
     {{ end }}
-</div>
+  {{ end }}
+
+  {{/* Map system-keys to nice display labels */}}
+  {{ $labels := dict "email" "Email" "github" "GitHub" "linkedin" "LinkedIn" "google-scholar" "Scholar" "orcid" "ORCID" }}
+
+  <div class="flex flex-wrap items-center justify-center text-neutral-400 dark:text-neutral-500 w-full my-6 gap-x-6 gap-y-4">
+    <!-- Left Group: Academic -->
+    {{ range $item := $academic }}
+      {{ $label := index $labels $item.icon | default $item.name }}
+      <a class="flex items-center gap-2 hover:text-primary-700 dark:hover:text-primary-400 transition-colors duration-200" href="{{ $item.url | safeURL }}" target="_blank" aria-label="{{ $item.name }}" title="{{ $item.name }}" rel="me noopener noreferrer">
+        <span class="inline-block text-2xl align-text-bottom">{{ partial "icon.html" $item.icon }}</span>
+        <span class="text-xs font-bold tracking-wider uppercase text-neutral-500 dark:text-neutral-400 mt-0.5">{{ $label }}</span>
+      </a>
+    {{ end }}
+    
+    <!-- Central Divider -->
+    <div class="h-5 w-px bg-neutral-300 dark:bg-neutral-700 mx-3 self-center hidden md:block"></div>
+    
+    <!-- Right Group: Tech & Social -->
+    {{ range $item := $tech }}
+      {{ $label := index $labels $item.icon | default $item.name }}
+      <a class="flex items-center gap-2 hover:text-primary-700 dark:hover:text-primary-400 transition-colors duration-200" href="{{ $item.url | safeURL }}" target="_blank" aria-label="{{ $item.name }}" title="{{ $item.name }}" rel="me noopener noreferrer">
+        <span class="inline-block text-2xl align-text-bottom">{{ partial "icon.html" $item.icon }}</span>
+        <span class="text-xs font-bold tracking-wider uppercase text-neutral-500 dark:text-neutral-400 mt-0.5">{{ $label }}</span>
+      </a>
+    {{ end }}
+  </div>
 {{ end }}

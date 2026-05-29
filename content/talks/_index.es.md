@@ -1,5 +1,5 @@
 ---
-title: "Difusión y Recursos"
+title: "Recursos"
 description: "Metodologías, protocolos, charlas en conferencias y seminarios."
 layout: "simple"
 ---

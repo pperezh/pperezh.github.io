@@ -44,7 +44,7 @@ theme = "blowfish"
         weight = 20
       [[languages.en.menu.main]]
         identifier = "talks"
-        name = "Outreach & Resources"
+        name = "Resources"
         url = "/talks/"
         weight = 30
       [[languages.en.menu.main]]
@@ -71,6 +71,7 @@ theme = "blowfish"
         { "linkedin" = "https://www.linkedin.com/in/patricioperezhenriquez/" },
         { "google-scholar" = "https://scholar.google.es/citations?user=2Y0DMHEAAAAJ&hl=en" },
         { "orcid" = "https://orcid.org/0000-0003-2761-0004" },
+        { "name" = "AI Tools", "url" = "/ai-tools/", "icon" = "wand-magic-sparkles" },
         { "name" = "CV", "url" = "files/resume.pdf", "icon" = "file-lines" }
       ]
 
@@ -94,7 +95,7 @@ theme = "blowfish"
         weight = 20
       [[languages.es.menu.main]]
         identifier = "talks"
-        name = "Difusión y Recursos"
+        name = "Recursos"
         url = "/es/talks/"
         weight = 30
       [[languages.es.menu.main]]
@@ -109,7 +110,7 @@ theme = "blowfish"
         weight = 60
 
     [languages.es.params]
-      displayName = "🇪🇸 ES"
+      displayName = "🇨🇱 ES"
 
     [languages.es.params.author]
       name = "Patricio Pérez-Henríquez"
@@ -121,6 +122,7 @@ theme = "blowfish"
         { "linkedin" = "https://www.linkedin.com/in/patricioperezhenriquez/" },
         { "google-scholar" = "https://scholar.google.es/citations?user=2Y0DMHEAAAAJ&hl=en" },
         { "orcid" = "https://orcid.org/0000-0003-2761-0004" },
+        { "name" = "Herramientas IA", "url" = "/es/ai-tools/", "icon" = "wand-magic-sparkles" },
         { "name" = "CV", "url" = "files/resume.pdf", "icon" = "file-lines" }
       ]
 

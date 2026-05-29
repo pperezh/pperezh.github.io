@@ -3,7 +3,7 @@ title: "Patricio Pérez-Henríquez"
 description: "PhD in Cell and Developmental Biology"
 ---
 
-I am a cell and developmental biologist fascinated by how biological systems self-organize. By analyzing cell biology through an engineering lens, I investigate how cells integrate biochemical signals and physical forces to orchestrate large-scale morphogenesis. Below is a timeline of my academic and professional journey.
+I am a cell and developmental biologist fascinated by how biological systems self-organize. By analyzing cell biology through an engineering lens, I investigate how cells integrate biochemical signals and physical forces to orchestrate large-scale morphogenesis. Currently, I am on a quest to integrate AI into my workflow as a researcher and innovator. You can follow my quest in my [AI Tools Blog](/ai-tools/) and on [GitHub](https://github.com/pperezh). Below is a timeline of my academic and professional journey.
 
 <style>
   .timeline-container {
