@@ -1,4 +1,4 @@
-baseURL = "https://pperezh.github.io/"
+baseURL = "https://www.pperezh.com/"
 defaultContentLanguage = "en"
 theme = "blowfish"
 
@@ -55,7 +55,7 @@ theme = "blowfish"
       [[languages.en.menu.main]]
         identifier = "ai-tools"
         name = "AI Tools"
-        url = "/ai-tools/"
+        url = "https://ai-tools.pperezh.com/"
         weight = 60
 
     [languages.en.params]
@@ -71,7 +71,7 @@ theme = "blowfish"
         { "linkedin" = "https://www.linkedin.com/in/patricioperezhenriquez/" },
         { "google-scholar" = "https://scholar.google.es/citations?user=2Y0DMHEAAAAJ&hl=en" },
         { "orcid" = "https://orcid.org/0000-0003-2761-0004" },
-        { "name" = "AI Tools", "url" = "/ai-tools/", "icon" = "wand-magic-sparkles" },
+        { "name" = "AI Tools", "url" = "https://ai-tools.pperezh.com/", "icon" = "wand-magic-sparkles" },
         { "name" = "CV", "url" = "files/resume.pdf", "icon" = "file-lines" }
       ]
 
@@ -106,7 +106,7 @@ theme = "blowfish"
       [[languages.es.menu.main]]
         identifier = "ai-tools"
         name = "Herramientas IA"
-        url = "/es/ai-tools/"
+        url = "https://ai-tools.pperezh.com/es/"
         weight = 60
 
     [languages.es.params]
@@ -122,7 +122,7 @@ theme = "blowfish"
         { "linkedin" = "https://www.linkedin.com/in/patricioperezhenriquez/" },
         { "google-scholar" = "https://scholar.google.es/citations?user=2Y0DMHEAAAAJ&hl=en" },
         { "orcid" = "https://orcid.org/0000-0003-2761-0004" },
-        { "name" = "Herramientas IA", "url" = "/es/ai-tools/", "icon" = "wand-magic-sparkles" },
+        { "name" = "Herramientas IA", "url" = "https://ai-tools.pperezh.com/es/", "icon" = "wand-magic-sparkles" },
         { "name" = "CV", "url" = "files/resume.pdf", "icon" = "file-lines" }
       ]
 
