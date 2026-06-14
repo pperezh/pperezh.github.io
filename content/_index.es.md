@@ -3,7 +3,7 @@ title: "Patricio Pérez-Henríquez"
 description: "PhD en Biología Celular y del Desarrollo"
 ---
 
-Soy un biólogo celular y del desarrollo de plantas, fascinado por cómo se autoorganizan los sistemas biológicos. Al analizar la biología celular a través de una lente de ingeniería, investigo cómo las células integran señales bioquímicas y fuerzas físicas para orquestar la morfogénesis a gran escala. Actualmente, estoy en una búsqueda para integrar la IA en mi flujo de trabajo como investigador e innovador. Puedes seguir mi búsqueda en mi [Blog de Herramientas IA](/es/ai-tools/) y en [GitHub](https://github.com/pperezh). A continuación, presento una línea de tiempo de mi trayectoria académica y profesional.
+Soy un biólogo celular y del desarrollo de plantas, fascinado por cómo se autoorganizan los sistemas biológicos. Al analizar la biología celular a través de una lente de ingeniería, investigo cómo las células integran señales bioquímicas y fuerzas físicas para orquestar la morfogénesis a gran escala. Actualmente, estoy en una búsqueda para integrar la IA en mi flujo de trabajo como investigador e innovador. Puedes seguir mi búsqueda en mi [Blog de Herramientas IA](https://ai-tools.pperezh.com/es/) y en [GitHub](https://github.com/pperezh). A continuación, presento una línea de tiempo de mi trayectoria académica y profesional.
 
 <style>
   .timeline-container {
