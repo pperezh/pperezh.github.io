@@ -2,6 +2,8 @@
 title: "Resources"
 description: "Methodologies, protocols, conference talks, and seminars."
 layout: "simple"
+aliases:
+  - /talks/
 ---
 
 ## Protocols & Resources

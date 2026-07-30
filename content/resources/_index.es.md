@@ -2,6 +2,8 @@
 title: "Recursos"
 description: "Metodologías, protocolos, charlas en conferencias y seminarios."
 layout: "simple"
+aliases:
+  - /es/talks/
 ---
 
 ## Protocolos y Recursos

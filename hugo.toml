@@ -43,9 +43,9 @@ theme = "blowfish"
         url = "/publications/"
         weight = 20
       [[languages.en.menu.main]]
-        identifier = "talks"
+        identifier = "resources"
         name = "Resources"
-        url = "/talks/"
+        url = "/resources/"
         weight = 30
       [[languages.en.menu.main]]
         identifier = "cv"
@@ -94,9 +94,9 @@ theme = "blowfish"
         url = "/es/publications/"
         weight = 20
       [[languages.es.menu.main]]
-        identifier = "talks"
+        identifier = "resources"
         name = "Recursos"
-        url = "/es/talks/"
+        url = "/es/resources/"
         weight = 30
       [[languages.es.menu.main]]
         identifier = "cv"
